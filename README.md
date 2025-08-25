@@ -1,6 +1,6 @@
-# Spotify Clone
+# Spotify-like music player
 
-This is a simple clone of the Spotify web player built using HTML, CSS, and JavaScript.
+This is a simple web music player built using HTML, CSS, and JavaScript.
 
 ## Overview
 
@@ -11,9 +11,9 @@ The project simulates a basic music player that allows you to play songs, view a
 - **index.html:** The main HTML file that sets up the structure of the web page.
 - **style.css:** Contains the styles for the application to ensure a modern and responsive design.
 - **script.js:** Handles the functionality of the music player, including playing and pausing songs.
-- **covers/**: A folder containing album cover images.
-- **songs/**: A folder containing the audio files for the songs.
 - **app/**: Contains other assets including background images and logos.
+
+You can add songs and cover or background images in the placeholders provided as per your choice. I can't add it here, because of copyright issues
 
 ## How to Run
 
@@ -32,10 +32,5 @@ The project simulates a basic music player that allows you to play songs, view a
 - Integrate with a music API to dynamically load content.
 - Add more interactive features like playlists and song controls.
 - Improve UI/UX with modern animations and transitions.
-
-## Credits
-
-- Developed as a simple project to mimic some of the functionalities of Spotify.
-- All images and audio files are used for demonstration purposes only.
 
 
