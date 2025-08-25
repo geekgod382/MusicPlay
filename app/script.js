@@ -1,24 +1,24 @@
 // Spotify Clone - Complete Music Player Implementation
 document.addEventListener('DOMContentLoaded', function() {
     // Audio element for playing music
-    let audioElement = new Audio('songs/Come_And_Get_Your_Love1.mp3');
+    let audioElement = new Audio('song1.mp3');
     
     // Song files array
     const songFiles = [
-        'songs/Come_And_Get_Your_Love1.mp3',
-        'songs/Post Malone, Swae Lee - Sunflower (Spider-Man Into the Spider-Verse).mp3',
-        'songs/Shape Of You.mp3',
-        'songs/blinding-lights.mp3',
-        'songs/Luis Fonsi - Despacito ft. Daddy Yankee.mp3'
+        'song1.mp3',
+        'song2.mp3',
+        'song3.mp3',
+        'song4.mp3',
+        'song5.mp3'
     ];
     
     // Song names array
     const songNames = [
-        'Come and get your love - Redbone',
-        'Sunflower - Post Malone, Swae Lee',
-        'Shape of you - Ed Sheeran',
-        'Blinding lights - The Weeknd',
-        'Despacito - Luis Fonsi, Daddy Yankee'
+        'Song1_name',
+        'Song2_name',
+        'Song3_name',
+        'Song4_name',
+        'Song5_name'
     ];
     
     // Song durations array (in seconds)
